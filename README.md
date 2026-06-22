@@ -28,9 +28,19 @@ O aplicativo foi desenhado com uma paleta de cores sofisticada inspirada no univ
 
 ## 📸 Screenshots
 
-| Lista de Estoque | Cadastro/Edição |
+Aqui estão as telas principais do sistema funcionando:
+
+| Lista (Vazia) | Formulário (Novo) |
 | :---: | :---: |
-| *(Adicione aqui os prints do app)* | *(Adicione aqui os prints do app)* |
+| ![Lista Vazia](screenshots/app_list_empty.png) | ![Novo Vinho](screenshots/app_form_empty.png) |
+
+| Formulário (Preenchido) | Lista (Com Dados) |
+| :---: | :---: |
+| ![Cadastro](screenshots/app_form_filled.png) | ![Lista com Vinho](screenshots/app_list_filled.png) |
+
+## 🎥 Demonstração
+
+*(Espaço reservado para o vídeo de demonstração do funcionamento do app)*
 
 ## 🏗️ Como rodar o projeto
 
