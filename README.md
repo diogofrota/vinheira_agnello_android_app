@@ -30,13 +30,27 @@ O aplicativo foi desenhado com uma paleta de cores sofisticada inspirada no univ
 
 Aqui estão as telas principais do sistema funcionando:
 
-| Lista (Vazia) | Formulário (Novo) |
-| :---: | :---: |
-| ![Lista Vazia](screenshots/app_list_empty.png) | ![Novo Vinho](screenshots/app_form_empty.png) |
+### 1. Lista de Estoque (Vazia)
+A tela inicial mostra o estado atual do estoque. Quando não há vinhos cadastrados, uma mensagem informativa é exibida ao usuário.
+![Lista Vazia](screenshots/app_list_empty.png)
 
-| Formulário (Preenchido) | Lista (Com Dados) |
-| :---: | :---: |
-| ![Cadastro](screenshots/app_form_filled.png) | ![Lista com Vinho](screenshots/app_list_filled.png) |
+---
+
+### 2. Cadastro de Novo Vinho
+Interface intuitiva para inserir os dados do produto, com campos validados e teclado numérico automático para valores e quantidades.
+![Novo Vinho](screenshots/app_form_empty.png)
+
+---
+
+### 3. Formulário Preenchido (Edição/Cadastro)
+Exemplo de inserção de dados. O sistema suporta nomes completos, tipos de uva e valores decimais.
+![Cadastro](screenshots/app_form_filled.png)
+
+---
+
+### 4. Gestão de Estoque (Lista com Dados)
+Visualização em cartões (Cards) com ícones coloridos para edição (Lápis) e exclusão (Lixeira), facilitando a gestão rápida do estoque.
+![Lista com Vinho](screenshots/app_list_filled.png)
 
 ## 🎥 Demonstração
 
